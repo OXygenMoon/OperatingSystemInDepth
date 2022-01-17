@@ -13,7 +13,7 @@
 
 Disk : 存放OS和Bootloader
 
-BOIS : 基于I/O处理系统
+BIOS : 基于I/O处理系统
 
 Bootloader : 加载OS，将OS放入内存
 
